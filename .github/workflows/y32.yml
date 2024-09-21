@@ -1,0 +1,12 @@
+name: Login to Alwaysdata32
+
+on: [push, workflow_dispatch]
+
+jobs:
+  login_to_alwaysdata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Login to Alwaysdata
+        run: |
+          python3 login_to_alwaysdata32.py
