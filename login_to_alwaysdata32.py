@@ -8,8 +8,8 @@ user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # 定义多个用户的登录信息
 users = {
     "user1": {
-        "username": "ybinmopop@gmail.com",
-        "password": "tttgfgS47/780"
+        "username": "bijnkmkmk@gmail.com",
+        "password": "tytytS/780@"
     },
     "user2": {
         "username": "hjinmioui@gmail.com",
